@@ -5,3 +5,4 @@
 	# files in history, and I suspect most contributors won't need to look at
 	# the history of these.
 	shallow = true
+        branch = image_capture_core
