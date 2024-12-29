@@ -1,0 +1,4 @@
+framework = "ImageCaptureCore"
+crate = "objc2-image-capture-core"
+required-crates = ["objc2-foundation"]
+macos = "10.6"

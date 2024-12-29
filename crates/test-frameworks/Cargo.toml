@@ -114,6 +114,8 @@ test-frameworks = [
     "objc2-io-surface/all",
     "dep:objc2-identity-lookup",
     "objc2-identity-lookup/all",
+    "dep:objc2-image-capture-core",
+    "objc2-image-capture-core/all",
     "dep:objc2-input-method-kit",
     "objc2-input-method-kit/all",
     "dep:objc2-link-presentation",
@@ -262,6 +264,7 @@ objc2-automator = { path = "../../framework-crates/objc2-automator", optional = 
 objc2-core-wlan = { path = "../../framework-crates/objc2-core-wlan", optional = true }
 objc2-exception-handling = { path = "../../framework-crates/objc2-exception-handling", optional = true }
 objc2-finder-sync = { path = "../../framework-crates/objc2-finder-sync", optional = true }
+objc2-image-capture-core = { path = "../../framework-crates/objc2-image-capture-core", optional = true }
 objc2-input-method-kit = { path = "../../framework-crates/objc2-input-method-kit", optional = true }
 objc2-mail-kit = { path = "../../framework-crates/objc2-mail-kit", optional = true }
 objc2-osa-kit = { path = "../../framework-crates/objc2-osa-kit", optional = true }
