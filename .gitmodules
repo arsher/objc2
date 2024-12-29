@@ -1,6 +1,6 @@
 [submodule "generated"]
 	path = generated
-	url = https://github.com/madsmtm/objc2-generated.git
+	url = https://github.com/arsher/objc2-generated.git
 	# We recommend a shallow clone here since there are a lot of generated
 	# files in history, and I suspect most contributors won't need to look at
 	# the history of these.
